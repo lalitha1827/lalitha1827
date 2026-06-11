@@ -1,14 +1,12 @@
 # Hi, I'm Lalitha Rani
-
-🎓 B.Tech in Artificial Intelligence & Machine Learning @ CBIT (CGPA: 8.58)  
-💡 Passionate about building real-world AI solutions using Machine Learning, Deep Learning, and Generative AI  
+B.Tech in Artificial Intelligence & Machine Learning @ CBIT (CGPA: 8.58)  
+Passionate about building real-world AI solutions using Machine Learning, Deep Learning, and Generative AI  
 
 ## About Me
 I am an aspiring AI/ML Engineer with a strong foundation in data-driven problem solving and software development.  
 I enjoy building end-to-end intelligent systems that combine data processing, machine learning models, and visualization to deliver impactful solutions.
 
 ## Projects
-
 ### Zomato Strategic Insights Dashboard
 - Developed a complete Business Intelligence solution using *Power BI & DAX*
 - Implemented *real-time analytics, ETL processing, and data modeling*
@@ -26,7 +24,6 @@ I enjoy building end-to-end intelligent systems that combine data processing, ma
 
 
 ## Technical Skills
-
 ### Programming
 Python SQL HTML CSS
 
@@ -45,8 +42,7 @@ Power BI Data Visualization
 ## Certifications
 - Oracle Cloud Infrastructure Foundations Associate  
 - Data Science – Infosys Springboard  
-- Web Development – Internshala  
-- Google Cloud Skill Boost  
+- Web Development – Internshala
 
 ## Career Objective
 I am actively seeking opportunities in *Software Engineering, Data Science, and AI/ML roles*, where I can apply my skills, work on real-world problems, and grow as a technology professional.
@@ -57,8 +53,8 @@ I am actively seeking opportunities in *Software Engineering, Data Science, and 
 - Data Analytics & Visualization  
 
 ## Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/lalitha-rani-jangam-7bb570317/  
-- 💻 GitHub: https://github.com/lalitha1827  
-- 📧 Email: lalithajangam18@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/lalitha-rani-jangam-7bb570317/  
+- GitHub: https://github.com/lalitha1827  
+- Email: lalithajangam18@gmail.com  
 
 Always learning, building, and exploring new technologies in AI & Software Development.
